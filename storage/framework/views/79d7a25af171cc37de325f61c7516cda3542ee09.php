@@ -22,14 +22,11 @@
     <?php echo e(View::make('footer')); ?>
 
 
-    
-
 </body>
 <style>
         .custom-login {
             height: 300px;
             padding-top: 100px;
-            
-        }
+       }
 </style>
 </html><?php /**PATH /Users/byte/code/eCom/resources/views/master.blade.php ENDPATH**/ ?>
