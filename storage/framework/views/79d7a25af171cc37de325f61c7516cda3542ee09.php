@@ -22,6 +22,8 @@
     <?php echo e(View::make('footer')); ?>
 
 
+    
+
 </body>
 <style>
         .custom-login {
